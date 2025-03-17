@@ -3,13 +3,16 @@
 ## 📨 Contact with me
 - You can find me as `@monntecc` on Discord, Telegram or Instagram.
 
+## 🏢 Worked at:
+- IDO Cloud: https://idocloud.eu/about-us/ (June 2022 - January 2025)
+- alt:V Multiplayer: https://altv.mp/ (January 2025 - Present)
+
 ## 💻 Experienced in
-- C/C++, CMake
-- C#, mostly .NET and .NET Core, ASP.NET
-- TypeScript/JavaScript in web and node.js, mostly NestJS for backend
-- Express.js, gRPC, GraphQL with Apollo
-- Angular, SSR, experienced in "new" standalone style components as well
-- Vue 3, Vuetify, Pinia, PrimeVue
+- C/C++ using CMake or Xmake
+- C#, mostly .NET Core and ASP.NET
+- TypeScript/JavaScript in web using node.js, mostly NestJS and Express.js for backend
+- React.js, Angular up to 19 using all modern style components, SSR
+- Vue 2/3, Vuetify, Pinia, PrimeVue
 - Front-end development, HTML, CSS, SASS, Tailwind, Bootstrap, Electron
 - Mobile development, mostly Ionic Framework (Angular or Vue)
 - DevOps, GitLab CI, AWS, GitLab Runner, Linux (Debian based, Arch based, RedHat based)
@@ -19,6 +22,6 @@
 ## 🐾 Language knowledge:
 - Russian (native)
 - Ukrainian (native)
-- Polish (C1)
+- Polish (C2)
 - English (B2)
-- Spanish (A2/B1)
+- Spanish (B1)
