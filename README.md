@@ -3,7 +3,7 @@
 ## 📨 Contact with me
 - You can find me as `@monntecc` on Discord, Telegram or Instagram.
 
-## 🏢 Worked at:
+## 🏢 Working experience:
 - IDO Cloud: https://idocloud.eu/about-us/ (June 2022 - January 2025)
 - alt:V Multiplayer: https://altv.mp/ (January 2025 - Present)
 
