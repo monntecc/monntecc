@@ -22,6 +22,6 @@
 ## 🐾 Language knowledge:
 - Russian (native)
 - Ukrainian (native)
-- Polish (C2)
+- Polish (C1)
 - English (B2)
 - Spanish (B1)
