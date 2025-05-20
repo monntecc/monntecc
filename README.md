@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hello, I'm Vladyslav Potapenko, experienced software developer.
 
-<!--
-**monntecc/monntecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📨 Contact with me
+- You can find me as `@monntecc` on Discord, Telegram or Instagram.
 
-Here are some ideas to get you started:
+## 💻 Experienced in
+- C/C++ using CMake or Xmake
+- C#, mostly .NET Core and ASP.NET
+- TypeScript/JavaScript in web using node.js, mostly NestJS and Express.js for backend
+- React.js, Angular up to 19 using all modern style components, SSR
+- Vue 2/3, Vuetify, Pinia, PrimeVue
+- Front-end development, HTML, CSS, SASS, Tailwind, Bootstrap, Electron
+- Mobile development, mostly Ionic Framework (Angular or Vue)
+- DevOps, GitLab CI, AWS, GitLab Runner, Linux (Debian based, Arch based, RedHat based)
+- Database: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Supabase
+- Python (mostly automative scripts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐾 Language knowledge:
+- Russian (native)
+- Ukrainian (native)
+- Polish (C1)
+- English (B2)
+- Spanish (B1)
