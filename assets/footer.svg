@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Building next-generation interactive and gaming experiences">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="100%" r="60%">
+      <stop offset="0" stop-color="#CF1B64" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#CF1B64" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="120" rx="20" fill="#111111"/>
+  <rect width="1200" height="120" rx="20" fill="url(#g)"/>
+  <rect x=".5" y=".5" width="1199" height="119" rx="19.5" fill="none" stroke="#2E2E2E"/>
+  <text x="600" y="58" text-anchor="middle" font-family="'Plus Jakarta Sans','Segoe UI',system-ui,sans-serif" font-weight="800" font-size="26" letter-spacing="-0.5" fill="#E8E8E8">Building next-generation <tspan fill="#CF1B64">interactive</tspan> &amp; gaming experiences</text>
+  <text x="600" y="88" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#8F8F8F">MOWOGAMES.COM · MOWOENGINE.COM</text>
+</svg>

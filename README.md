@@ -1,155 +1,176 @@
 <div align="center">
 
-# 👋 Hello, I'm Vladyslav Potapenko
+<img src="./assets/header.svg" width="100%" alt="Hi, I'm Vladyslav — building engines, launchers and multiplayer worlds" />
 
-### 🚀 Full-Stack Software Engineer | Game Dev Enthusiast | Open Source Contributor
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monntecc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monntecc@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/monntecc)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/monntecc)
+[![Mowo Games](https://img.shields.io/badge/Mowo_Games-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjU0IC0yIDMwIDI2Ij48cGF0aCBmaWxsPSIjQ0YxQjY0IiBkPSJNNTYgMHYyMmg2LjJsNi44LTkuNCA2LjggOS40SDgyVjBoLTUuNnYxMi40TDY5IDIuOGwtNy40IDkuNlYweiIvPjwvc3ZnPg==&labelColor=111111&color=CF1B64)](https://mowogames.com)
+[![MowoEngine](https://img.shields.io/badge/MowoEngine-CF1B64?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111111)](https://mowoengine.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=CF1B64)](https://www.linkedin.com/in/monntecc)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=CF1B64)](mailto:monntecc@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=CF1B64)](https://discord.com/users/monntecc)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=CF1B64)](https://t.me/monntecc)
+
+![Profile views](https://komarev.com/ghpvc/?username=monntecc&color=CF1B64&style=flat-square&label=PROFILE+VIEWS&labelColor=111111)
+![Based in Spain](https://img.shields.io/badge/Based_in-Spain-CF1B64?style=flat-square&labelColor=111111&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0YxQjY0IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjEuNXMtNy02LjEtNy0xMS41YTcgNyAwIDAgMSAxNCAwYzAgNS40LTcgMTEuNS03IDExLjV6Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMCIgcj0iMi42Ii8+PC9zdmc+)
+![Languages](https://img.shields.io/badge/Speaks-5_languages-CF1B64?style=flat-square&labelColor=111111&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0YxQjY0IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSIzLjgiIHJ5PSI5Ii8+PHBhdGggZD0iTTMgMTJoMTgiLz48L3N2Zz4=)
+![Open to collaborate](https://img.shields.io/badge/Open_to-collaborate-3CC27A?style=flat-square&labelColor=111111&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0YxQjY0IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA1LjVoMTZ2MTBIMTBsLTQuNSAzLjV2LTMuNUg0eiIvPjxwYXRoIGQ9Ik04IDkuNWg4TTggMTIuNWg1Ii8+PC9zdmc+)
 
 </div>
 
----
+<br/>
 
-## 🎯 About Me
+<img src="./assets/section-about.svg" width="100%" alt="About me" />
 
-Experienced Full-Stack Software Developer with a strong background in **game development** and **multiplayer systems**. Passionate about building next-generation interactive experiences and scalable applications across frontend, backend, and cloud infrastructure.
+Full-stack software engineer with a strong background in **game development** and **multiplayer systems**. I like the whole stack under a game — the engine, the scripting language, the launcher, the account service and the store — and I enjoy bridging creative design and technical implementation.
 
-- 🎮 Currently working as **Software Engineer** at **Majestic Games Limited**
-- 💼 Senior Full-Stack Engineer & Designer at **Dizard Technologies**
-- 🌍 Based in Spain | Fluent in 5 languages
-- 🔭 Specialized in client/server architectures, multiplayer platforms, and cross-platform development
-- 🎨 Bridging the gap between creative design and technical implementation
+```ts
+const vladyslav = {
+  location:   "Spain",
+  focus:      ["game engines", "multiplayer platforms", "client/server architecture", "cross-platform apps"],
+  building:   "Mowo Games — engine, language, launcher and games",
+  dayJob:     "Majestic Games",
+  speaks:     ["Russian", "Ukrainian", "Polish", "English", "Spanish"],
+};
+```
 
----
+<br/>
 
-## 💻 Tech Stack
+<img src="./assets/section-mowo.svg" width="100%" alt="Mowo Games" />
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+### <img src="./assets/icons/gamepad.svg" width="22" align="top" /> [Mowo Games](https://mowogames.com)
+**Independent game studio.** We make our own games, the tech they run on, and the launcher that keeps them together.
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **NULL** — in early access
+- **Ultimate Durak**
+- **Mowo Games Launcher** — updates, cloud saves and friends across Steam and Mowo
+- **Mowo ID** — one account for every Mowo game
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### <img src="./assets/icons/engine.svg" width="22" align="top" /> [MowoEngine](https://mowoengine.com)
+**A C++20 game engine** with its own RHI, editor, build tool and data format.
 
-### Tools & Others
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- Backend-agnostic renderer, physics, audio, online
+- **Arc** UI framework and Visual Scripting
+- **MowoBuildTool** — C#/.NET build system
+- Windows · macOS · Linux · Android · iOS
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🏢 Professional Experience
+### <img src="./assets/icons/code.svg" width="22" align="top" /> Wolang
+**A statically typed, compiled language** for gameplay code — lexer → parser → sema → effects → typed SSA IR.
 
-### 🎮 **Majestic Games** - Software Engineer
-*January 2025 - Present*
+- Three tiers that agree: interpreter, JIT (x64 / arm64) and LLVM AOT
+- Standard library written in Wolang itself
+- Apache-2.0
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="./assets/icons/globe.svg" width="22" align="top" /> Web platform
+The sites and services around the games.
+
+- **mowogames.com** — store, profiles, friends
+- **id.mowogames.com** — accounts, OIDC / SAML
+- **mowoengine.com** — docs, blog, engine licensing
+- Next.js · React · FastAPI · PostgreSQL · Redis
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![mowogames.com](https://img.shields.io/badge/mowogames.com-CF1B64?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://mowogames.com)
+[![mowoengine.com](https://img.shields.io/badge/mowoengine.com-CF1B64?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://mowoengine.com)
+[![GitHub org](https://img.shields.io/badge/@MowoGames-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MowoGames)
+
+</div>
+
+<br/>
+
+<img src="./assets/section-experience.svg" width="100%" alt="Experience" />
+
+| | Company | Role | When |
+|:-:|---|---|---|
+| <img src="./assets/icons/mowo.svg" width="24" /> | **[Mowo Games](https://mowogames.com)** | Founder & Lead Engineer — engine, language, launcher, web platform | 2025 — Present |
+| <img src="./assets/icons/crown.svg" width="24" /> | **Majestic Games Limited** | Software Engineer | Jan 2025 — Present |
+| <img src="./assets/icons/bolt.svg" width="24" /> | **alt:V Multiplayer** | C++ Developer | Jan 2025 — Aug 2025 |
+| <img src="./assets/icons/cloud.svg" width="24" /> | **IDO Cloud** | Full-Stack Engineer | Jan 2023 — Jan 2025 |
+
+<details>
+<summary><b>What I did there</b></summary>
+<br/>
+
+<img src="./assets/icons/crown.svg" width="18" align="top" /> **Majestic Games — Software Engineer**
 - Developing multiplayer solutions and API modules
 - Building desktop applications with Electron
-- Optimizing native JS modules (NAPI, V8)
+- Optimizing native JS modules (N-API, V8)
 - Implementing automation scripts and CI/CD workflows
 
-### 💻 **Dizard Technologies** - Senior Full-Stack Engineer & Designer
-*August 2025 - Present*
-- Designing and developing modern web applications
-- Building robust REST APIs and backend services
-- Configuring CI/CD pipelines in GitHub
-- Managing Linux infrastructure (NGINX, PostgreSQL, PM2)
-
-### ⚡ **alt:V Multiplayer** - C++ Developer
-*January 2025 - August 2025*
-- Worked on core modules of multiplayer platform using C++/V8
+<img src="./assets/icons/bolt.svg" width="18" align="top" /> **alt:V Multiplayer — C++ Developer**
+- Worked on core modules of the multiplayer platform using C++/V8
 - Developed client/server libraries
 - Configured CI/CD workflows
 
-### ☁️ **IDO Cloud** - Full-Stack Engineer
-*January 2023 - January 2025*
+<img src="./assets/icons/cloud.svg" width="18" align="top" /> **IDO Cloud — Full-Stack Engineer**
 - Developed internal tools with Angular/Vue and NestJS
 - Built cross-platform apps with Ionic Framework
 - Managed AWS infrastructure
 - Configured gRPC connections with Linux-based daemons
 
----
+</details>
 
-## 🌍 Languages
+<br/>
 
-- **Russian** - Native
-- **Ukrainian** - Native
-- **Polish** - C1
-- **English** - B2
-- **Spanish** - B1
+<img src="./assets/section-stack.svg" width="100%" alt="Tech stack" />
 
----
+<img src="./assets/tech-stack.svg" width="100%" alt="C++, C#, TypeScript, JavaScript, Python, SQL, HLSL · MowoEngine, Wolang, Unity, Vulkan, LLVM, V8, Steamworks · React, Next.js, Angular, Vue.js, Tailwind, Sass, Electron, Ionic · Node.js, NestJS, Express, .NET, FastAPI, Flask, gRPC · PostgreSQL, MongoDB, MySQL, SQL Server, SQLite, Redis, Supabase · AWS, Cloudflare, Docker, Kubernetes, GitHub Actions, GitLab CI, NGINX, Linux, CMake, Git" />
 
-## 📜 Certifications
+<br/>
 
-- 🎮 **Unity Game Developer Certificate** - Coding Giants Poland (2021)
-- 💻 **C# Developer Certificate** - Coding Giants Poland (2020)
-
----
-
-## 📊 GitHub Stats
+<img src="./assets/section-stats.svg" width="100%" alt="GitHub stats" />
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monntecc&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monntecc&layout=compact&theme=radical&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=monntecc&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=16&bg_color=111111&title_color=CF1B64&icon_color=CF1B64&text_color=E8E8E8&ring_color=CF1B64" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monntecc&layout=compact&hide_border=true&border_radius=16&bg_color=111111&title_color=CF1B64&text_color=E8E8E8" alt="Top languages" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=monntecc&hide_border=true&border_radius=16&background=111111&ring=CF1B64&fire=CF1B64&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=CF1B64&sideLabels=A3A3A3&dates=8F8F8F&stroke=2E2E2E" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monntecc&bg_color=111111&color=A3A3A3&line=CF1B64&point=E8E8E8&area=true&area_color=CF1B64&hide_border=true&radius=16" alt="Contribution graph" />
 
 </div>
 
----
+<br/>
 
-## 📫 Get In Touch
+<img src="./assets/section-languages.svg" width="100%" alt="Languages" />
 
-<div align="center">
+<img src="./assets/languages.svg" width="100%" alt="Russian — native, Ukrainian — native, Polish — C1, English — B2, Spanish — B1" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monntecc)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:monntecc@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-@monntecc-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/monntecc)
-[![Telegram](https://img.shields.io/badge/Telegram-@monntecc-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/monntecc)
-[![Instagram](https://img.shields.io/badge/Instagram-@monntecc-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/monntecc)
+<br/>
 
-</div>
-
----
+<img src="./assets/section-contact.svg" width="100%" alt="Get in touch" />
 
 <div align="center">
 
-### 💡 *"Building next-generation interactive and gaming experiences"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CF1B64?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/monntecc)
+[![Email](https://img.shields.io/badge/Email-monntecc%40gmail.com-CF1B64?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:monntecc@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%40monntecc-CF1B64?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111)](https://discord.com/users/monntecc)
+[![Telegram](https://img.shields.io/badge/Telegram-%40monntecc-CF1B64?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111)](https://t.me/monntecc)
+[![Instagram](https://img.shields.io/badge/Instagram-%40monntecc-CF1B64?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111)](https://instagram.com/monntecc)
 
-![Profile Views](https://komarev.com/ghpvc/?username=monntecc&color=brightgreen&style=for-the-badge)
+<br/><br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Building next-generation interactive and gaming experiences" />
 
 </div>
